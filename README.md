@@ -1,10 +1,10 @@
 # React-0-Dex i7200
 
 <h2>Welcome To The Future!</h2>
-The React-0-Dex i7200 is the perfect tool for today's busy professional. Featuring a bright liquid crystal display (LCD), convenient and easy to use forms, and large, colorful buttons, the React-0-Dex i7200 is built with form and functionality in mind. Works in all of todays major browser such as Netscape or AOL&ast;, the i7200 is always at your fingertips. Order today, and receive a free pat on the back! &ast;&ast;
+The React-0-Dex i7200 is the perfect tool for today's busy professional. Featuring a bright liquid crystal display (LCD), convenient and easy to use forms, and large, colorful buttons, the React-0-Dex i7200 is built with form and functionality in mind. Works in all of todays major browser such as Netscape or AOL&ast;, the i7200 is always at your fingertips. Order today, and receive a free pat on the back! &ast;&ast;<br />
 
 &ast; The i7200 probably won't actually work in Netscape or AOL. <br />
-&ast; While supplies last!
+&ast;&ast; While supplies last!
 
 Functionality
 - React single page application
