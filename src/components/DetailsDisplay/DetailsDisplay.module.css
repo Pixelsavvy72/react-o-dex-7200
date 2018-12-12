@@ -1,0 +1,97 @@
+.DetailsDisplayArea {
+  background-color: rgb(155, 188, 128);
+  box-shadow: inset 5px 5px 10px rgba(0, 0, 0, .5);
+  border: 5px solid rgb(128, 53, 0);
+  width: 95%;
+  height: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+  border-radius: 10px;
+  overflow-y: scroll;
+}
+
+.Name {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  color: rgb(33, 44, 25);
+  text-shadow: 0px 0px 5px rgb(0,0,0);
+}
+
+.Label { 
+  font-weight: 500;
+  margin-left: .25rem;
+  text-align: left;
+  color: rgb(33, 44, 25);
+  text-shadow: 0px 0px 2px rgb(0,0,0);
+}
+
+.Input {
+  /* Field and text color set in javascript */
+  /* color: rgb(155, 188, 128); */
+  border: 2px solid rgb(33, 44, 25);
+  border-radius: 4px;
+  box-shadow: 0 0 10px 1px rgb(33, 44, 25, 0.5);
+  width: 19rem;  
+  height: 1.5rem;
+  display: block;
+  margin-left: .5rem;
+  margin-bottom: .5rem;
+  padding-left: .5rem;
+  font-size: 1rem;
+}
+
+.Button:focus {outline: 0;}
+
+.Button:first-of-type {
+  right: 150px;
+  width: 8rem;
+  background-color: rgb(0, 192, 0);
+  box-shadow: inset -5px -10px 2px rgb(0, 107, 0),
+  inset 5px 5px 2px rgb(0, 107, 0);
+  border: 1px solid rgb(43, 43, 43);
+}
+
+.Button {
+  font-family: Electrolize, Sarpanch;
+  background-color: rgb(250, 0, 0);
+  border: none;
+  color: rgb(17, 17, 17);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  border-radius: 4px;
+  height: 5rem;
+  width: 5rem;
+  padding: .25rem;
+  box-shadow: inset -5px -10px 2px rgb(139, 0, 0),
+  inset 5px 5px 2px rgb(139, 0, 0);
+  border: 1px solid rgb(43, 43, 43);
+  position: absolute;
+  top: 405px;
+  right: 50px;
+}
+
+
+/* SCROLLBAR */
+
+.DetailsDisplayArea::-webkit-scrollbar
+{
+	width: 10px;
+  background-color: rgb(33, 44, 25);
+  border-radius: 10px;
+}
+
+.DetailsDisplayArea::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+	background-image: -webkit-gradient(linear,
+									   left bottom,
+									   left top,
+									   color-stop(0.22, rgb(122, 146, 103)),
+									   color-stop(0.5, rgb(33, 44, 25)),
+									   color-stop(0.86, rgb(122, 146, 103)));
+}

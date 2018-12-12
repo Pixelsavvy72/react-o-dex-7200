@@ -1,0 +1,10 @@
+.Content {
+  margin-top: 2rem;
+  width: 400px;
+  height: 700px;
+  border: 1pt solid rgb(97, 53, 21);
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(116, 116, 116);
+  /* box-shadow: 15px 15px 0px rgba(0,0,0,1); */
+}
