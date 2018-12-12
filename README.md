@@ -23,3 +23,7 @@ Functionality
 <img src="https://raw.githubusercontent.com/Pixelsavvy72/react-o-dex-7200/master/public/assets/screenshots/ReactODexNew.png" width="350">
 <h2>Edit Entry Form</h2>
 <img src="https://raw.githubusercontent.com/Pixelsavvy72/react-o-dex-7200/master/public/assets/screenshots/ReacODexEdit.png" width="350">
+
+## TO-DO List
+- Add validation and lock down form fields
+- Make responsive. Especially the buttons.
